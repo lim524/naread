@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env*
+!.env.example
+test-results/
+playwright-report/
+*.tsbuildinfo
+output/
+public/illustrations/**/preview*.png
+public/**/*.png
+public/illustrations/pilot-v1/
+*.log

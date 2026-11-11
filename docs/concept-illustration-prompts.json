@@ -1,0 +1,192 @@
+{
+  "mode": "built-in image_gen",
+  "version": "2026.11.10-v1",
+  "assets": [
+    {
+      "id": "pillar-year",
+      "path": "public/illustrations/concepts-v1/pillar-year.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: misty layered distant mountain peaks, a pale warm full moon and flowing white oriental clouds, symbolizing origins. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "pillar-month",
+      "path": "public/illustrations/concepts-v1/pillar-month.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: a delicate crescent moon above soft flowing clouds and a subtle seasonal branch, symbolizing seasonal rhythm. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "pillar-day",
+      "path": "public/illustrations/concepts-v1/pillar-day.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: back-view bust of a gender-neutral person with dark hair in a simple ivory traditional-inspired robe, calm lavender wash, soft pale moon, symbolizing self reflection. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "pillar-hour",
+      "path": "public/illustrations/concepts-v1/pillar-hour.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: an elegant translucent glass hourglass with pale rose sand and soft cloud wisps, pale moon, symbolizing time and possibility. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "element-wood",
+      "path": "public/illustrations/concepts-v1/element-wood.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: a graceful small pine tree with delicate sage green foliage, pale celadon circle and mist, symbolizing growth. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "element-fire",
+      "path": "public/illustrations/concepts-v1/element-fire.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: a single graceful flame shaped like flowing coral red silk, pale apricot circular sun and clouds, symbolizing expression. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "element-earth",
+      "path": "public/illustrations/concepts-v1/element-earth.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: layered warm ochre mountain ranges with fine graphite contours, pale golden circle and clouds, symbolizing grounding. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "element-metal",
+      "path": "public/illustrations/concepts-v1/element-metal.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: a small cluster of elegant clear quartz crystals, silver grey facets and pale pearl circle, symbolizing refinement. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "element-water",
+      "path": "public/illustrations/concepts-v1/element-water.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: a curling blue-grey ocean wave with subtle foam and pale blue circle, symbolizing flowing thought. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "mbti-i",
+      "path": "public/illustrations/concepts-v1/mbti-i.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: one small ivory ceramic teacup next to an open journal, quiet crescent moon and lavender cloud wisps, symbolizing reflective solitude. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "mbti-e",
+      "path": "public/illustrations/concepts-v1/mbti-e.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: two small ivory ceramic teacups with gently converging steam above them, pale apricot sun and lavender cloud wisps, symbolizing shared conversation. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "mbti-s",
+      "path": "public/illustrations/concepts-v1/mbti-s.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: a carefully observed leafy branch with a dew drop on one leaf, graphite details, pale celadon circle, symbolizing tangible observation. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "mbti-n",
+      "path": "public/illustrations/concepts-v1/mbti-n.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: a small constellation of subtle golden stars connected by delicate flowing lines above distant clouds, pale lavender circle, symbolizing possibilities. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "mbti-t",
+      "path": "public/illustrations/concepts-v1/mbti-t.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: a refined simple antique balance scale with two balanced pans, silver grey ink, pale blue circle and clouds, symbolizing consistent criteria. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "mbti-f",
+      "path": "public/illustrations/concepts-v1/mbti-f.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: two gently cupped hands holding one small peach blossom, warm rose watercolor, pale pink circle and clouds, symbolizing care and values. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "mbti-j",
+      "path": "public/illustrations/concepts-v1/mbti-j.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: an open ivory notebook with a neat geometric grid but absolutely no letters or numbers, a slim pen and pale lavender circle, symbolizing planned structure. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "mbti-p",
+      "path": "public/illustrations/concepts-v1/mbti-p.png",
+      "prompt": "Use case: stylized-concept. ONE standalone square illustration vignette for a Korean educational self-discovery website. Subject: a gently winding path branching through low misty hills with a drifting leaf, pale celadon circle, symbolizing open options. Delicate graphite ink contours, refined East Asian ink wash and translucent very subtle pastel watercolor, paper grain only inside painted objects. Match premium airy Korean moon-and-cloud ink painting. Pure white background, centered contained composition, 20% clean white margins, gentle sophisticated mood, readable as a small card illustration. No text, lettering, numbers, diagrams, labels, UI, borders, watermark, photorealism or 3D. This image will sit behind live HTML text so leave plenty of breathing room."
+    },
+    {
+      "id": "dream-pig",
+      "prompt": "Use case: stylized-concept. ONE square premium East Asian ink-wash illustration for a Korean dream-symbol self-reflection result card. Subject: a gentle round pig sitting peacefully, delicate warm graphite fur shading and pale beige moon, soft clouds. Delicate graphite ink contours, subtle translucent watercolor, airy sophisticated Korean editorial style, restrained low saturation colors, pure white background, centered complete subject occupies 70 percent of canvas, generous clean margins. Match a refined charcoal dragon illustration with beige moon and curling white oriental clouds. No text, letters, labels, numbers, watermark, border, UI, photorealism, 3D, exaggerated cartoon face.",
+      "path": "public/illustrations/concepts-v1/dream-pig.png"
+    },
+    {
+      "id": "dream-apple",
+      "prompt": "Create ONE square standalone watercolor vignette. EXACT SUBJECT: one softly blushed red apple with a small green leaf, pale ivory moon and cloud wisps. Draw ONLY the named subject and the explicitly mentioned subtle background. NO DRAGONS. NO SNAKES. NO MYTHICAL CREATURES. No animals of any kind. No people, no faces, no characters. Style: delicate East Asian graphite ink linework, very subtle translucent pastel watercolor, restrained ivory/grey/peach/sage colors, airy Korean editorial illustration. Pure white background, complete centered composition, generous clean white margins, subject occupies about 65 percent. Absolutely no added decorative creature, dragon head, dragon body, dragon silhouette, serpent or symbolic guardian. No text, lettering, numbers, border, UI, watermark, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/dream-apple.png"
+    },
+    {
+      "id": "dream-dog",
+      "prompt": "Use case: stylized-concept. ONE square premium East Asian ink-wash illustration for a Korean dream-symbol self-reflection result card. Subject: a gentle Korean jindo puppy sitting with softly curled tail, pale beige moon and soft clouds. Delicate graphite ink contours, subtle translucent watercolor, airy sophisticated Korean editorial style, restrained low saturation colors, pure white background, centered complete subject occupies 70 percent of canvas, generous clean margins. Match a refined charcoal dragon illustration with beige moon and curling white oriental clouds. No text, letters, labels, numbers, watermark, border, UI, photorealism, 3D, exaggerated cartoon face.",
+      "path": "public/illustrations/concepts-v1/dream-dog.png"
+    },
+    {
+      "id": "dream-fish",
+      "prompt": "Use case: stylized-concept. ONE square premium East Asian ink-wash illustration for a Korean dream-symbol self-reflection result card. Subject: one elegant small freshwater fish with flowing fins, slate blue watercolor, pale moon and water wisps. Delicate graphite ink contours, subtle translucent watercolor, airy sophisticated Korean editorial style, restrained low saturation colors, pure white background, centered complete subject occupies 70 percent of canvas, generous clean margins. Match a refined charcoal dragon illustration with beige moon and curling white oriental clouds. No text, letters, labels, numbers, watermark, border, UI, photorealism, 3D, exaggerated cartoon face.",
+      "path": "public/illustrations/concepts-v1/dream-fish.png"
+    },
+    {
+      "id": "dream-grape",
+      "prompt": "Create ONE square standalone watercolor vignette. EXACT SUBJECT: one bunch of pale purple grapes with a curling vine and sage leaf, pale moon and mist. Draw ONLY the named subject and the explicitly mentioned subtle background. NO DRAGONS. NO SNAKES. NO MYTHICAL CREATURES. No animals of any kind. No people, no faces, no characters. Style: delicate East Asian graphite ink linework, very subtle translucent pastel watercolor, restrained ivory/grey/peach/sage colors, airy Korean editorial illustration. Pure white background, complete centered composition, generous clean white margins, subject occupies about 65 percent. Absolutely no added decorative creature, dragon head, dragon body, dragon silhouette, serpent or symbolic guardian. No text, lettering, numbers, border, UI, watermark, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/dream-grape.png"
+    },
+    {
+      "id": "dream-flower",
+      "prompt": "Create ONE square standalone watercolor vignette. EXACT SUBJECT: one elegant pale pink lotus flower with a small bud, soft grey ink leaves, pale moon and cloud wisps. Draw ONLY the named subject and the explicitly mentioned subtle background. NO DRAGONS. NO SNAKES. NO MYTHICAL CREATURES. No animals of any kind. No people, no faces, no characters. Style: delicate East Asian graphite ink linework, very subtle translucent pastel watercolor, restrained ivory/grey/peach/sage colors, airy Korean editorial illustration. Pure white background, complete centered composition, generous clean white margins, subject occupies about 65 percent. Absolutely no added decorative creature, dragon head, dragon body, dragon silhouette, serpent or symbolic guardian. No text, lettering, numbers, border, UI, watermark, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/dream-flower.png"
+    },
+    {
+      "id": "dream-bird",
+      "prompt": "Use case: stylized-concept. ONE square premium East Asian ink-wash illustration for a Korean dream-symbol self-reflection result card. Subject: a graceful small swallow perched on a delicate branch, slate grey and pale sage wash, pale moon. Delicate graphite ink contours, subtle translucent watercolor, airy sophisticated Korean editorial style, restrained low saturation colors, pure white background, centered complete subject occupies 70 percent of canvas, generous clean margins. Match a refined charcoal dragon illustration with beige moon and curling white oriental clouds. No text, letters, labels, numbers, watermark, border, UI, photorealism, 3D, exaggerated cartoon face.",
+      "path": "public/illustrations/concepts-v1/dream-bird.png"
+    },
+    {
+      "id": "dream-tree",
+      "prompt": "Create ONE square standalone watercolor vignette. EXACT SUBJECT: a graceful old pine tree on a low rock, delicate sage foliage and grey trunk, pale moon and mist. Draw ONLY the named subject and the explicitly mentioned subtle background. NO DRAGONS. NO SNAKES. NO MYTHICAL CREATURES. No animals of any kind. No people, no faces, no characters. Style: delicate East Asian graphite ink linework, very subtle translucent pastel watercolor, restrained ivory/grey/peach/sage colors, airy Korean editorial illustration. Pure white background, complete centered composition, generous clean white margins, subject occupies about 65 percent. Absolutely no added decorative creature, dragon head, dragon body, dragon silhouette, serpent or symbolic guardian. No text, lettering, numbers, border, UI, watermark, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/dream-tree.png"
+    },
+    {
+      "id": "dream-moon",
+      "prompt": "Create ONE square standalone watercolor vignette. EXACT SUBJECT: a large pale warm ivory full moon with delicate crater textures, drifting grey oriental cloud wisps. Draw ONLY the named subject and the explicitly mentioned subtle background. NO DRAGONS. NO SNAKES. NO MYTHICAL CREATURES. No animals of any kind. No people, no faces, no characters. Style: delicate East Asian graphite ink linework, very subtle translucent pastel watercolor, restrained ivory/grey/peach/sage colors, airy Korean editorial illustration. Pure white background, complete centered composition, generous clean white margins, subject occupies about 65 percent. Absolutely no added decorative creature, dragon head, dragon body, dragon silhouette, serpent or symbolic guardian. No text, lettering, numbers, border, UI, watermark, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/dream-moon.png"
+    },
+    {
+      "id": "dream-pearl",
+      "prompt": "Create ONE square standalone watercolor vignette. EXACT SUBJECT: one luminous ivory pearl cradled by a very soft curling cloud, faint beige moon, delicate pale golden glow. Draw ONLY the named subject and the explicitly mentioned subtle background. NO DRAGONS. NO SNAKES. NO MYTHICAL CREATURES. No animals of any kind. No people, no faces, no characters. Style: delicate East Asian graphite ink linework, very subtle translucent pastel watercolor, restrained ivory/grey/peach/sage colors, airy Korean editorial illustration. Pure white background, complete centered composition, generous clean white margins, subject occupies about 65 percent. Absolutely no added decorative creature, dragon head, dragon body, dragon silhouette, serpent or symbolic guardian. No text, lettering, numbers, border, UI, watermark, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/dream-pearl.png"
+    },
+    {
+      "id": "dream-water",
+      "prompt": "Create ONE square standalone watercolor vignette. EXACT SUBJECT: a serene small lake with curling blue grey ripples, tiny distant mountains, pale moon and white mist. Draw ONLY the named subject and the explicitly mentioned subtle background. NO DRAGONS. NO SNAKES. NO MYTHICAL CREATURES. No animals of any kind. No people, no faces, no characters. Style: delicate East Asian graphite ink linework, very subtle translucent pastel watercolor, restrained ivory/grey/peach/sage colors, airy Korean editorial illustration. Pure white background, complete centered composition, generous clean white margins, subject occupies about 65 percent. Absolutely no added decorative creature, dragon head, dragon body, dragon silhouette, serpent or symbolic guardian. No text, lettering, numbers, border, UI, watermark, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/dream-water.png"
+    },
+    {
+      "id": "dream-star",
+      "prompt": "Create ONE square standalone watercolor vignette. EXACT SUBJECT: a small constellation with a single delicate shooting star, muted gold and lavender ink, faint pale moon and cloud wisps. Draw ONLY the named subject and the explicitly mentioned subtle background. NO DRAGONS. NO SNAKES. NO MYTHICAL CREATURES. No animals of any kind. No people, no faces, no characters. Style: delicate East Asian graphite ink linework, very subtle translucent pastel watercolor, restrained ivory/grey/peach/sage colors, airy Korean editorial illustration. Pure white background, complete centered composition, generous clean white margins, subject occupies about 65 percent. Absolutely no added decorative creature, dragon head, dragon body, dragon silhouette, serpent or symbolic guardian. No text, lettering, numbers, border, UI, watermark, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/dream-star.png"
+    },
+    {
+      "id": "dream-peach",
+      "prompt": "Create ONE square standalone watercolor vignette. EXACT SUBJECT: two ripe pale peach fruits with one delicate green leaf, soft ink contours and pale moon, mist at base. Draw ONLY the named subject and the explicitly mentioned subtle background. NO DRAGONS. NO SNAKES. NO MYTHICAL CREATURES. No animals of any kind. No people, no faces, no characters. Style: delicate East Asian graphite ink linework, very subtle translucent pastel watercolor, restrained ivory/grey/peach/sage colors, airy Korean editorial illustration. Pure white background, complete centered composition, generous clean white margins, subject occupies about 65 percent. Absolutely no added decorative creature, dragon head, dragon body, dragon silhouette, serpent or symbolic guardian. No text, lettering, numbers, border, UI, watermark, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/dream-peach.png"
+    },
+    {
+      "id": "dream-sun",
+      "prompt": "Create ONE square standalone watercolor vignette. EXACT SUBJECT: a pale apricot watercolor sun above low cloud wisps and a distant warm grey ridge. Draw ONLY the named subject and the explicitly mentioned subtle background. NO DRAGONS. NO SNAKES. NO MYTHICAL CREATURES. No animals of any kind. No people, no faces, no characters. Style: delicate East Asian graphite ink linework, very subtle translucent pastel watercolor, restrained ivory/grey/peach/sage colors, airy Korean editorial illustration. Pure white background, complete centered composition, generous clean white margins, subject occupies about 65 percent. Absolutely no added decorative creature, dragon head, dragon body, dragon silhouette, serpent or symbolic guardian. No text, lettering, numbers, border, UI, watermark, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/dream-sun.png"
+    },
+    {
+      "id": "dream-gem",
+      "prompt": "Create ONE square standalone watercolor vignette. EXACT SUBJECT: three small jade and quartz gemstones with subtle facets, grey graphite contours, pale moon and cloud wisps. Draw ONLY the named subject and the explicitly mentioned subtle background. NO DRAGONS. NO SNAKES. NO MYTHICAL CREATURES. No animals of any kind. No people, no faces, no characters. Style: delicate East Asian graphite ink linework, very subtle translucent pastel watercolor, restrained ivory/grey/peach/sage colors, airy Korean editorial illustration. Pure white background, complete centered composition, generous clean white margins, subject occupies about 65 percent. Absolutely no added decorative creature, dragon head, dragon body, dragon silhouette, serpent or symbolic guardian. No text, lettering, numbers, border, UI, watermark, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/dream-gem.png"
+    },
+    {
+      "id": "dream-mountain",
+      "prompt": "Create ONE square standalone watercolor vignette. EXACT SUBJECT: layered distant mountain peaks with graphite ink slopes, a pale beige moon and soft cloud wisps. Draw ONLY the named subject and the explicitly mentioned subtle background. NO DRAGONS. NO SNAKES. NO MYTHICAL CREATURES. No animals of any kind. No people, no faces, no characters. Style: delicate East Asian graphite ink linework, very subtle translucent pastel watercolor, restrained ivory/grey/peach/sage colors, airy Korean editorial illustration. Pure white background, complete centered composition, generous clean white margins, subject occupies about 65 percent. Absolutely no added decorative creature, dragon head, dragon body, dragon silhouette, serpent or symbolic guardian. No text, lettering, numbers, border, UI, watermark, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/dream-mountain.png"
+    },
+    {
+      "id": "dream-baby",
+      "prompt": "Create ONE square standalone watercolor vignette. EXACT SUBJECT: a peaceful sleeping baby wrapped fully in soft ivory cloth, delicate graphite lines and pale peach moon, soft clouds. Draw ONLY the named subject and the explicitly mentioned subtle background. NO DRAGONS. NO SNAKES. NO MYTHICAL CREATURES. No animals of any kind. Only the single sleeping human baby described, no additional figures. Style: delicate East Asian graphite ink linework, very subtle translucent pastel watercolor, restrained ivory/grey/peach/sage colors, airy Korean editorial illustration. Pure white background, complete centered composition, generous clean white margins, subject occupies about 65 percent. Absolutely no added decorative creature, dragon head, dragon body, dragon silhouette, serpent or symbolic guardian. No text, lettering, numbers, border, UI, watermark, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/dream-baby.png"
+    },
+    {
+      "id": "dream-house",
+      "prompt": "Create ONE square standalone watercolor vignette. EXACT SUBJECT: a tiny elegant Korean hanok gate and curved roof, warm grey ink, pale moon and mist, no people. Draw ONLY the named subject and the explicitly mentioned subtle background. NO DRAGONS. NO SNAKES. NO MYTHICAL CREATURES. No animals of any kind. No people, no faces, no characters. Style: delicate East Asian graphite ink linework, very subtle translucent pastel watercolor, restrained ivory/grey/peach/sage colors, airy Korean editorial illustration. Pure white background, complete centered composition, generous clean white margins, subject occupies about 65 percent. Absolutely no added decorative creature, dragon head, dragon body, dragon silhouette, serpent or symbolic guardian. No text, lettering, numbers, border, UI, watermark, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/dream-house.png"
+    },
+    {
+      "id": "combo-dragon-pearl",
+      "prompt": "Use case: stylized-concept. ONE square premium Korean East Asian ink-wash illustration. Exact composition: One wise charcoal black East Asian dragon with swept antlers and flowing mane, gently holding a single luminous ivory pearl IN ITS MOUTH between its lips. The pearl is clearly visible. The dragon's neck curls above small white clouds; pale warm beige full moon behind. Only one dragon and one pearl. No people or extra creatures. Delicate graphite linework with subtle translucent muted watercolor, sophisticated airy editorial style, pure white background, complete centered composition with generous white margins, soft organic clouds at base. No text, lettering, labels, numbers, watermark, frame, UI, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/combo-dragon-pearl.png"
+    },
+    {
+      "id": "combo-tiger-house",
+      "prompt": "Use case: stylized-concept. ONE square premium Korean East Asian ink-wash illustration. Exact composition: One gentle majestic tiger with muted ochre fur and graphite stripes walking through the OPEN wooden gate of a small Korean hanok house, body facing INTO the gate, looking peacefully back. Include enough of the curved grey tiled roof and doorway to show the tiger entering the home. Pale beige moon and low white mist. No dragon, snake, people or extra animals. Delicate graphite linework with subtle translucent muted watercolor, sophisticated airy editorial style, pure white background, complete centered composition with generous white margins, soft organic clouds at base. No text, lettering, labels, numbers, watermark, frame, UI, photorealism or 3D.",
+      "path": "public/illustrations/concepts-v1/combo-tiger-house.png"
+    }
+  ],
+  "review": "Selected originals were visually reviewed. Rejected dragon-contaminated variants are excluded from public assets and stored only in output/illustration-review."
+}

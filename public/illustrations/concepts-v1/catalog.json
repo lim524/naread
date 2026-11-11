@@ -1,0 +1,154 @@
+{
+  "version": "2026.11.10-v1",
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "id": "combo-dragon-pearl",
+      "src": "/illustrations/concepts-v1/combo-dragon-pearl.webp"
+    },
+    {
+      "id": "combo-tiger-house",
+      "src": "/illustrations/concepts-v1/combo-tiger-house.webp"
+    },
+    {
+      "id": "dream-apple",
+      "src": "/illustrations/concepts-v1/dream-apple.webp"
+    },
+    {
+      "id": "dream-baby",
+      "src": "/illustrations/concepts-v1/dream-baby.webp"
+    },
+    {
+      "id": "dream-bird",
+      "src": "/illustrations/concepts-v1/dream-bird.webp"
+    },
+    {
+      "id": "dream-dog",
+      "src": "/illustrations/concepts-v1/dream-dog.webp"
+    },
+    {
+      "id": "dream-fish",
+      "src": "/illustrations/concepts-v1/dream-fish.webp"
+    },
+    {
+      "id": "dream-flower",
+      "src": "/illustrations/concepts-v1/dream-flower.webp"
+    },
+    {
+      "id": "dream-gem",
+      "src": "/illustrations/concepts-v1/dream-gem.webp"
+    },
+    {
+      "id": "dream-grape",
+      "src": "/illustrations/concepts-v1/dream-grape.webp"
+    },
+    {
+      "id": "dream-house",
+      "src": "/illustrations/concepts-v1/dream-house.webp"
+    },
+    {
+      "id": "dream-moon",
+      "src": "/illustrations/concepts-v1/dream-moon.webp"
+    },
+    {
+      "id": "dream-mountain",
+      "src": "/illustrations/concepts-v1/dream-mountain.webp"
+    },
+    {
+      "id": "dream-peach",
+      "src": "/illustrations/concepts-v1/dream-peach.webp"
+    },
+    {
+      "id": "dream-pearl",
+      "src": "/illustrations/concepts-v1/dream-pearl.webp"
+    },
+    {
+      "id": "dream-pig",
+      "src": "/illustrations/concepts-v1/dream-pig.webp"
+    },
+    {
+      "id": "dream-star",
+      "src": "/illustrations/concepts-v1/dream-star.webp"
+    },
+    {
+      "id": "dream-sun",
+      "src": "/illustrations/concepts-v1/dream-sun.webp"
+    },
+    {
+      "id": "dream-tree",
+      "src": "/illustrations/concepts-v1/dream-tree.webp"
+    },
+    {
+      "id": "dream-water",
+      "src": "/illustrations/concepts-v1/dream-water.webp"
+    },
+    {
+      "id": "element-earth",
+      "src": "/illustrations/concepts-v1/element-earth.webp"
+    },
+    {
+      "id": "element-fire",
+      "src": "/illustrations/concepts-v1/element-fire.webp"
+    },
+    {
+      "id": "element-metal",
+      "src": "/illustrations/concepts-v1/element-metal.webp"
+    },
+    {
+      "id": "element-water",
+      "src": "/illustrations/concepts-v1/element-water.webp"
+    },
+    {
+      "id": "element-wood",
+      "src": "/illustrations/concepts-v1/element-wood.webp"
+    },
+    {
+      "id": "mbti-e",
+      "src": "/illustrations/concepts-v1/mbti-e.webp"
+    },
+    {
+      "id": "mbti-f",
+      "src": "/illustrations/concepts-v1/mbti-f.webp"
+    },
+    {
+      "id": "mbti-i",
+      "src": "/illustrations/concepts-v1/mbti-i.webp"
+    },
+    {
+      "id": "mbti-j",
+      "src": "/illustrations/concepts-v1/mbti-j.webp"
+    },
+    {
+      "id": "mbti-n",
+      "src": "/illustrations/concepts-v1/mbti-n.webp"
+    },
+    {
+      "id": "mbti-p",
+      "src": "/illustrations/concepts-v1/mbti-p.webp"
+    },
+    {
+      "id": "mbti-s",
+      "src": "/illustrations/concepts-v1/mbti-s.webp"
+    },
+    {
+      "id": "mbti-t",
+      "src": "/illustrations/concepts-v1/mbti-t.webp"
+    },
+    {
+      "id": "pillar-day",
+      "src": "/illustrations/concepts-v1/pillar-day.webp"
+    },
+    {
+      "id": "pillar-hour",
+      "src": "/illustrations/concepts-v1/pillar-hour.webp"
+    },
+    {
+      "id": "pillar-month",
+      "src": "/illustrations/concepts-v1/pillar-month.webp"
+    },
+    {
+      "id": "pillar-year",
+      "src": "/illustrations/concepts-v1/pillar-year.webp"
+    }
+  ]
+}

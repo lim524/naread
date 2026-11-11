@@ -1,0 +1,65 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "id": "dragon-water",
+      "name": "심연의 흑룡",
+      "prompt": "Use case: stylized-concept. Create ONE standalone square premium illustration for a Korean self-discovery result card. Subject: A wise charcoal-black East Asian dragon bust with antlers, flowing mane and curling neck, facing right, white oriental clouds and blue-grey water mist, pale beige full moon. Style: delicate graphite ink linework, Korean East Asian ink wash with subtle translucent watercolor, textured detailed fur/scales/feathers where appropriate, sophisticated and gentle, matching the supplied dragon reference's airy hand-painted appearance. White background, centered complete silhouette, generous clean margins, subject occupies about 75% canvas, pale circular moon/sun behind upper body, restrained low saturation colors, softly curling mist at base. All anatomy fully within frame. No text, lettering, border, card UI, watermark, photorealism, 3D, aggressive face, thick cartoon outlines. Equal visual richness and premium quality across animals.",
+      "path": "public/illustrations/pilot-v1/dragon-water.png"
+    },
+    {
+      "id": "dragon-wood",
+      "name": "신록의 청룡",
+      "prompt": "Use case: stylized-concept. Create ONE standalone square premium illustration for a Korean self-discovery result card. Subject: An elegant jade and charcoal East Asian dragon bust with antlers, flowing mane and curling neck, facing right, tender leaves near horns, soft bamboo foliage, pale celadon moon. Style: delicate graphite ink linework, Korean East Asian ink wash with subtle translucent watercolor, textured detailed fur/scales/feathers where appropriate, sophisticated and gentle, matching the supplied dragon reference's airy hand-painted appearance. White background, centered complete silhouette, generous clean margins, subject occupies about 75% canvas, pale circular moon/sun behind upper body, restrained low saturation colors, softly curling mist at base. All anatomy fully within frame. No text, lettering, border, card UI, watermark, photorealism, 3D, aggressive face, thick cartoon outlines. Equal visual richness and premium quality across animals.",
+      "path": "public/illustrations/pilot-v1/dragon-wood.png"
+    },
+    {
+      "id": "fox-water",
+      "name": "달그림자의 여우",
+      "prompt": "Use case: stylized-concept. Create ONE standalone square premium illustration for a Korean self-discovery result card. Subject: A graceful charcoal and indigo fox sitting with a luxuriously curled tail, gently perceptive face, blue-grey mist and soft ripples, pale beige moon. Style: delicate graphite ink linework, Korean East Asian ink wash with subtle translucent watercolor, textured detailed fur/scales/feathers where appropriate, sophisticated and gentle, matching the supplied dragon reference's airy hand-painted appearance. White background, centered complete silhouette, generous clean margins, subject occupies about 75% canvas, pale circular moon/sun behind upper body, restrained low saturation colors, softly curling mist at base. All anatomy fully within frame. No text, lettering, border, card UI, watermark, photorealism, 3D, aggressive face, thick cartoon outlines. Equal visual richness and premium quality across animals.",
+      "path": "public/illustrations/pilot-v1/fox-water.png"
+    },
+    {
+      "id": "fox-fire",
+      "name": "불꽃의 여우",
+      "prompt": "Use case: stylized-concept. Create ONE standalone square premium illustration for a Korean self-discovery result card. Subject: A graceful russet fox sitting with a luxuriously flowing tail, gently perceptive face, warm vermilion and peach wisps like soft flames, pale apricot sun. Style: delicate graphite ink linework, Korean East Asian ink wash with subtle translucent watercolor, textured detailed fur/scales/feathers where appropriate, sophisticated and gentle, matching the supplied dragon reference's airy hand-painted appearance. White background, centered complete silhouette, generous clean margins, subject occupies about 75% canvas, pale circular moon/sun behind upper body, restrained low saturation colors, softly curling mist at base. All anatomy fully within frame. No text, lettering, border, card UI, watermark, photorealism, 3D, aggressive face, thick cartoon outlines. Equal visual richness and premium quality across animals.",
+      "path": "public/illustrations/pilot-v1/fox-fire.png"
+    },
+    {
+      "id": "tiger-metal",
+      "name": "설원의 백호",
+      "prompt": "Use case: stylized-concept. Create ONE standalone square premium illustration for a Korean self-discovery result card. Subject: A majestic white tiger with delicate charcoal stripes seated on a pale rock, kind confident eyes, silver grasses and soft snow wisps, pale silver moon. Style: delicate graphite ink linework, Korean East Asian ink wash with subtle translucent watercolor, textured detailed fur/scales/feathers where appropriate, sophisticated and gentle, matching the supplied dragon reference's airy hand-painted appearance. White background, centered complete silhouette, generous clean margins, subject occupies about 75% canvas, pale circular moon/sun behind upper body, restrained low saturation colors, softly curling mist at base. All anatomy fully within frame. No text, lettering, border, card UI, watermark, photorealism, 3D, aggressive face, thick cartoon outlines. Equal visual richness and premium quality across animals.",
+      "path": "public/illustrations/pilot-v1/tiger-metal.png"
+    },
+    {
+      "id": "tiger-wood",
+      "name": "대숲의 호랑이",
+      "prompt": "Use case: stylized-concept. Create ONE standalone square premium illustration for a Korean self-discovery result card. Subject: A majestic charcoal-striped muted ochre tiger seated confidently, kind eyes, airy bamboo leaves and light sage mist, pale celadon moon. Style: delicate graphite ink linework, Korean East Asian ink wash with subtle translucent watercolor, textured detailed fur/scales/feathers where appropriate, sophisticated and gentle, matching the supplied dragon reference's airy hand-painted appearance. White background, centered complete silhouette, generous clean margins, subject occupies about 75% canvas, pale circular moon/sun behind upper body, restrained low saturation colors, softly curling mist at base. All anatomy fully within frame. No text, lettering, border, card UI, watermark, photorealism, 3D, aggressive face, thick cartoon outlines. Equal visual richness and premium quality across animals.",
+      "path": "public/illustrations/pilot-v1/tiger-wood.png"
+    },
+    {
+      "id": "crane-metal",
+      "name": "은달의 학",
+      "prompt": "Use case: stylized-concept. Create ONE standalone square premium illustration for a Korean self-discovery result card. Subject: A graceful red-crowned crane with folded wings and long elegant neck, white feathers with graphite wing tips, silver reeds and curling clouds, pale silver moon. Style: delicate graphite ink linework, Korean East Asian ink wash with subtle translucent watercolor, textured detailed fur/scales/feathers where appropriate, sophisticated and gentle, matching the supplied dragon reference's airy hand-painted appearance. White background, centered complete silhouette, generous clean margins, subject occupies about 75% canvas, pale circular moon/sun behind upper body, restrained low saturation colors, softly curling mist at base. All anatomy fully within frame. No text, lettering, border, card UI, watermark, photorealism, 3D, aggressive face, thick cartoon outlines. Equal visual richness and premium quality across animals.",
+      "path": "public/illustrations/pilot-v1/crane-metal.png"
+    },
+    {
+      "id": "crane-water",
+      "name": "물안개의 학",
+      "prompt": "Use case: stylized-concept. Create ONE standalone square premium illustration for a Korean self-discovery result card. Subject: A graceful red-crowned crane standing in shallow water, folded wings and long elegant neck, white feathers with charcoal wing tips, blue-grey water mist and gentle ripples, pale beige moon. Style: delicate graphite ink linework, Korean East Asian ink wash with subtle translucent watercolor, textured detailed fur/scales/feathers where appropriate, sophisticated and gentle, matching the supplied dragon reference's airy hand-painted appearance. White background, centered complete silhouette, generous clean margins, subject occupies about 75% canvas, pale circular moon/sun behind upper body, restrained low saturation colors, softly curling mist at base. All anatomy fully within frame. No text, lettering, border, card UI, watermark, photorealism, 3D, aggressive face, thick cartoon outlines. Equal visual richness and premium quality across animals.",
+      "path": "public/illustrations/pilot-v1/crane-water.png"
+    },
+    {
+      "id": "whale-water",
+      "name": "심해의 고래",
+      "prompt": "Use case: stylized-concept. Create ONE standalone square premium illustration for a Korean self-discovery result card. Subject: A serene charcoal-blue humpback whale floating diagonally upward, graceful fins and gentle eyes, airy blue-grey wave wisps and tiny distant stars, pale beige moon. Style: delicate graphite ink linework, Korean East Asian ink wash with subtle translucent watercolor, textured detailed fur/scales/feathers where appropriate, sophisticated and gentle, matching the supplied dragon reference's airy hand-painted appearance. White background, centered complete silhouette, generous clean margins, subject occupies about 75% canvas, pale circular moon/sun behind upper body, restrained low saturation colors, softly curling mist at base. All anatomy fully within frame. No text, lettering, border, card UI, watermark, photorealism, 3D, aggressive face, thick cartoon outlines. Equal visual richness and premium quality across animals.",
+      "path": "public/illustrations/pilot-v1/whale-water.png"
+    },
+    {
+      "id": "whale-fire",
+      "name": "노을바다의 고래",
+      "prompt": "Use case: stylized-concept. Create ONE standalone square premium illustration for a Korean self-discovery result card. Subject: A serene muted slate humpback whale floating diagonally upward, graceful fins and gentle eyes, soft peach and vermilion sunset reflections and airy wave wisps, pale apricot sun. Style: delicate graphite ink linework, Korean East Asian ink wash with subtle translucent watercolor, textured detailed fur/scales/feathers where appropriate, sophisticated and gentle, matching the supplied dragon reference's airy hand-painted appearance. White background, centered complete silhouette, generous clean margins, subject occupies about 75% canvas, pale circular moon/sun behind upper body, restrained low saturation colors, softly curling mist at base. All anatomy fully within frame. No text, lettering, border, card UI, watermark, photorealism, 3D, aggressive face, thick cartoon outlines. Equal visual richness and premium quality across animals.",
+      "path": "public/illustrations/pilot-v1/whale-fire.png"
+    }
+  ]
+}
