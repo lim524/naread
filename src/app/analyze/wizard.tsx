@@ -13,7 +13,7 @@ import {
 } from "lucide-react";
 import { CategoryIcon, Note } from "@/components/ui";
 import { kinds, labels, type Kind, type AnalysisInput } from "@/lib/types";
-import { inputSchema, koreaDate } from "@/lib/core";
+import { inputSchema } from "@/lib/core";
 import dynamic from "next/dynamic";
 import type { DreamCorrection } from "@/lib/analysis/dream-parser";
 const DreamConfirmation = dynamic(
@@ -273,18 +273,25 @@ export default function Analyze() {
                       ))}
                     </div>
                     <input
-                      type={data.calendar === "lunar" ? "text" : "date"}
-                      placeholder={
-                        data.calendar === "lunar"
-                          ? "음력 YYYY-MM-DD (예: 1995-04-23)"
-                          : undefined
-                      }
+                      type="text"
+                      inputMode="numeric"
+                      placeholder="예: 19950423 (숫자 8자리)"
+                      maxLength={8}
+                      pattern="[0-9]{8}"
                       aria-label="생년월일"
                       required={!(kind === "comprehensive" && data.unknownSaju)}
-                      min="1900-01-01"
-                      max={koreaDate()}
-                      value={data.birthDate}
-                      onChange={(e) => set("birthDate", e.target.value)}
+                      value={data.birthDate.replace(/-/g, "")}
+                      onChange={(e) => {
+                        const digits = e.target.value
+                          .replace(/\D/g, "")
+                          .slice(0, 8);
+                        set(
+                          "birthDate",
+                          digits.length === 8
+                            ? `${digits.slice(0, 4)}-${digits.slice(4, 6)}-${digits.slice(6)}`
+                            : digits,
+                        );
+                      }}
                     />
                     {data.calendar === "lunar" && (
                       <label className="checkbox-row">

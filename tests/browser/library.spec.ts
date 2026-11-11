@@ -6,7 +6,7 @@ async function analyze(page: Page, kind: Kind): Promise<SavedReading> {
     .getByRole("textbox", { name: "어떻게 불러드릴까요?" })
     .fill("보관 테스트");
   if (kind === "saju" || kind === "comprehensive") {
-    await page.getByLabel("생년월일", { exact: true }).fill("1995-05-21");
+    await page.getByLabel("생년월일", { exact: true }).fill("19950521");
     await page.getByLabel("태어난 시간을 몰라요", { exact: false }).check();
   }
   if (kind === "comprehensive")

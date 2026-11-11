@@ -8,7 +8,7 @@ test("사주 결과는 20개 이야기를 먼저 보여주고 개념 설명은 �
   await page
     .getByRole("textbox", { name: "어떻게 불러드릴까요?" })
     .fill("사주 테스트");
-  await page.getByLabel("생년월일", { exact: true }).fill("1995-05-21");
+  await page.getByLabel("생년월일", { exact: true }).fill("19950521");
   await page.getByLabel("태어난 시간을 몰라요", { exact: false }).check();
   await page.locator(".consent input").check();
   await page.getByRole("button", { name: "나의 이야기 분석하기" }).click();

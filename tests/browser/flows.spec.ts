@@ -34,7 +34,7 @@ test("종합 입력을 완료하면 무료 분석 결과로 이동한다", async
   await page
     .getByRole("textbox", { name: "어떻게 불러드릴까요?" })
     .fill("테스트");
-  await page.getByLabel("생년월일", { exact: true }).fill("1995-05-21");
+  await page.getByLabel("생년월일", { exact: true }).fill("19950521");
   await page.getByLabel("태어난 시간을 몰라요", { exact: false }).check();
   await page.getByRole("button", { name: "다음으로" }).click();
   await expect(
@@ -60,7 +60,7 @@ test("종합 분석은 MBTI·태몽 모름 선택을 전송하고 이전 내용�
   await page
     .getByRole("textbox", { name: "어떻게 불러드릴까요?" })
     .fill("모름 테스트");
-  await page.getByLabel("생년월일", { exact: true }).fill("1995-05-21");
+  await page.getByLabel("생년월일", { exact: true }).fill("19950521");
   await page.getByLabel("태어난 시간을 몰라요", { exact: false }).check();
   await page.getByRole("button", { name: "다음으로" }).click();
   await page.getByRole("button", { name: "INTP", exact: true }).click();
